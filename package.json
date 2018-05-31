@@ -1,0 +1,19 @@
+{
+  "name": "chromeless-experiment",
+  "version": "1.0.0",
+  "description": "Get screenshot of tokopedia website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tokopedia",
+    "headless",
+    "browser"
+  ],
+  "author": "ajibari@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chromeless": "^1.5.2"
+  }
+}
